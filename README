@@ -1,1 +1,8 @@
 my implementation of git. only for educational purposes. propably will be using sha2 instead of sha1, but besides that it's intented copy all functionalities of git.
+
+using Clara library to parse command line args:
+https://github.com/catchorg/Clara
+
+tmp:
+https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
+about dir structure, gitignores, etc.
